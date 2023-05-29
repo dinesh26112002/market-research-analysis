@@ -5,13 +5,12 @@
 
 ## Processed data:
 
- - Food availability 2017
- - Population 2000 - 2018
- - Political Stability 2000 - 2018
- - Average exchange rate 2017
- - GDP and GDP per capita 2017
- - Number of KFC and McDonalds Stores per country
- - Distance (Paris to country centroid)
+ - Food availability 2023
+ - Population 2021 - 2023
+ - Political Stability 2021 - 2023
+ - Average exchange rate 2023
+ - GDP and GDP per capita 2023
+
  
 ## Technologies Used
 - Python 3.9.7 in Jupyter Notebook
